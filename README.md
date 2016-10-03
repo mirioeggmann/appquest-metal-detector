@@ -1,11 +1,11 @@
-# AppQuest Memory
+# AppQuest Metal Detector
 
 ![PostFinance AG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PostFinance_Logo.svg/langfr-330px-PostFinance_Logo.svg.png)
 ![HSR](http://appquest.hsr.ch/images/fho.png)
 
 ## About
 
-AppQuest Memory is the 2. application for the [App Quest 2016](http://appquest.hsr.ch/) Treasure Hunt. The application must be able to take pictures, scan the QR-codes and store them in pairs. While the Treasure Hunt the goal will be to find as many pairs as possible. Finally it must be possible to upload all the bundled QR-code strings to the AppQuest LogBook.
+AppQuest Metal Detector is the 1. application for the [App Quest 2016](http://appquest.hsr.ch/) Treasure Hunt. The application must be able to find a magnetical object by showing the magnetic value in a progress bar. While the Treasure Hunt the goal will be to find the treasure with the "gold" inside. Finally it must be possible to upload the QR-code string to the AppQuest Logbuch.
 
 ### General
 |   |  |
