@@ -112,4 +112,4 @@ private void log(String qrCode) {
 ```
 
 ## License
-[MIT License](../blob/master/LICENSE)
+[MIT License](https://github.com/luvirx/appquest-metal-detector/blob/master/LICENSE)
