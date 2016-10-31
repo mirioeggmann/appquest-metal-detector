@@ -9,6 +9,7 @@ AppQuest Metal Detector is the 1. application for the [App Quest 2016](http://ap
 ### General
 |   |  |
 |---|---|
+| AppQuest Repository | [AppQuest 2016](https://github.com/mirioeggmann/appquest) |
 | Application Requirements | http://appquest.hsr.ch/2016/metall-detektor-android |
 | Minimum API Level | [API level 23 (Marshmallow)](https://developer.android.com/about/versions/marshmallow/android-6.0.html) |
 | Development Environment | [Android Studio](https://developer.android.com/studio/index.html) |
